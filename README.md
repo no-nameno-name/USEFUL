@@ -1,11 +1,12 @@
-# UDNSE:  A Universal DNN-based Symmetric Encryption Framework Using Adversarial Examples
+
+# USEFUL: A Universal DNN-based Symmetric Encryption Framework Using Adversarial Examples
 
 *KEYWORDS：Neural networks, Cryptography, Deep learning, Adversarial examples, encryption*
 
 
 ## Description
 
-The code in this repository implements the UDNSE algorithm proposed in the paper, and we will explain how to use this code to validate the contribution points in the paper. In addition, the core part of the code has detailed comments explaining the purpose of these codes.
+The code in this repository implements the USEFUL algorithm proposed in the paper, and we will explain how to use this code to validate the contribution points in the paper. In addition, the core part of the code has detailed comments explaining the purpose of these codes.
 
 
 Please note that our algorithm involves random processes, and the data in the paper is the average of multiple counts. It is normal for the output of the program to differ slightly from the results of the paper, but the trend and magnitude of the data should be the same.
